@@ -1,0 +1,4 @@
+1001 John_Smith CE 3.51
+1002 Emma_Johnson EEE 3.29
+1003 Sophie_Brown EE 3.45
+1004 Michael_Davis IE 3.21
